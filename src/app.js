@@ -8,6 +8,7 @@ const forecast = require('./utiles/forecast');
 const { query } = require('express');
 
 
+
 // setting routes and paths for the nodejs
 const publicDirectoryPath = path.join(__dirname,'../public')
 //    console.log(__dirname);
